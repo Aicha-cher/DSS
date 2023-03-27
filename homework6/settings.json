@@ -1,0 +1,15 @@
+{
+    "available languages": { 
+        "english" :    {
+                    "label" : "Configurations",
+                    "window title" : "Aicha Cheridi",
+                    "button" : "File"
+        }
+
+    },
+    "defaults": {
+        "language": "english",
+        "width" : 500,
+        "height": 500 
+    }
+}

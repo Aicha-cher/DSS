@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "dsss-hm6"
+version = "0.1.0"
+description = ""
+authors = ["aicha"]
+readme = "README.md"
+packages = [{include = "dsss_hm6"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyqtgraph = "^0.13.1"
+imageio = "^2.22.4"
+pyqt6 = "^6.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
